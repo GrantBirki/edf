@@ -6,7 +6,7 @@ description: Information about the Bean Summit and Events
 
 ## Bean Summit
 
-The Bean Summit will be taking place the weekend of July 2nd, 2022.
+The Bean Summit will be taking place the weekend of July 2nd, 2022
 
 ### Event Schedule 📆
 
