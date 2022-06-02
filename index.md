@@ -27,14 +27,14 @@ The Electric Dairy Festival (EDF) is a music festival in Steamboat Springs, CO
 
 ### Schedule 📆
 
-To start EDF, arrive by ~7:00pm to enjoy food and drinks
-
-- 7:00pm - Food and Drinks
-- 8:20pm - The show starts to begin
-- 8:30pm - DJ HRDR DDI
-- 9:00pm - Steve & G Show
-- 10:00pm - DJ Borscht
-- 11:00pm - DJ Puddles
+| Time 🕓 | Description 💡 |
+| ------ | ----------- |
+| 7:00pm | Food and Drinks |
+| 8:20pm | The show starts to begin |
+| 8:30pm | DJ HRDR DDI |
+| 9:00pm | Steve & G Show |
+| 10:00pm  | DJ Borscht |
+| 11:00pm | DJ Puddles |
 
 Once the show is over, we will be camping at the Dairy for the night ⛺
 
