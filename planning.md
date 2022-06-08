@@ -51,10 +51,12 @@ This section will go into details about power consumption estimates for all equi
 
 #### Wall Outlets
 
+Information about standard wall outlets that we will likely be using
+
 ![wall-outlets](assets/images/wall-outlets.png)
 
-- Standard US Wall Socket: 15 amps * 120 Volts = **1800 watts** (max safe 1440 watts)
-- Thicc US Wall Socket: 20 amps * 120 Volts = **2400 watts** (max safe 1920 watts)
+- Standard US Wall Socket: 15 amps * 120 Volts = 1800 watts -> max safe: **1440 watts**
+- Thicc US Wall Socket: 20 amps * 120 Volts = 2400 watts -> max safe: **1920 watts**
 
 #### Total Power Consumption
 
@@ -69,7 +71,7 @@ This section will go into details about power consumption estimates for all equi
 | [Chauvet Cubix](assets/images/chauvet-cubix.png) | 55W x2 |
 | [3200W Samson AMP](assets/files/samson-amp-specs.pdf) | 750W x2 |
 | [Bean Board](https://github.com/GrantBirki/bean-board) | 600 W |
-| **TOTAL** | 4,100W |
+| **TOTAL** | **4,100W** |
 
 #### Connection Diagram 📊
 
