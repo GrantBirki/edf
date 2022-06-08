@@ -67,9 +67,9 @@ This section will go into details about power consumption estimates for all equi
 | [Eclipse Laser](assets/images/eclipse.jpg) | 10W |
 | [Chauvet Slim Par IRC](assets/images/chauvet-slim-par.png) | 140W x2 |
 | [Chauvet Cubix](assets/images/chauvet-cubix.png) | 55W x2 |
-| [3200W Samson AMP](assets/files/samson-amp-specs.pdf) | W x2 |
+| [3200W Samson AMP](assets/files/samson-amp-specs.pdf) | 750W x2 |
 | [Bean Board](https://github.com/GrantBirki/bean-board) | 600 W |
-| **TOTAL** | 2,600W |
+| **TOTAL** | 4,100W |
 
 #### Connection Diagram 📊
 
