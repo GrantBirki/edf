@@ -77,19 +77,19 @@ Information about standard wall outlets that we will likely be using
 
 > This section shows Google Maps measurements of extension cable distances
 
-Apartment to Stage (shortest)
+Apartment to Stage (shortest) - **91 ft**
 
 ![apartment-to-stage](assets/images/apartment-to-stage.png)
 
-Workshop to Stage (highest power location)
+Workshop to Stage (highest power location) - **156 ft**
 
 ![workshop-to-stage](assets/images/workshop-to-stage.png)
 
-Main House to Stage (long)
+Main House to Stage (long) - **215 ft**
 
 ![main-to-stage](assets/images/main-to-stage.png)
 
-Pond Pump to Stage (probably not usable due to outlet type)
+Pond Pump to Stage (probably not usable due to outlet type) - **255 ft**
 
 ![pump-to-stage](assets/images/pump-to-stage.png)
 
