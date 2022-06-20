@@ -73,6 +73,26 @@ Information about standard wall outlets that we will likely be using
 | [Bean Board](https://github.com/GrantBirki/bean-board) | 600 W |
 | **TOTAL** | **4,100W** |
 
+#### Extension Cable Distance 📏
+
+> This section shows Google Maps measurements of extension cable distances
+
+Apartment to Stage (shortest)
+
+![apartment-to-stage](assets/images/apartment-to-stage.png)
+
+Workshop to Stage (highest power location)
+
+![workshop-to-stage](assets/images/workshop-to-stage.png)
+
+Main House to Stage (long)
+
+![main-to-stage](assets/images/main-to-stage.png)
+
+Pond Pump to Stage (probably not usable due to outlet type)
+
+![pump-to-stage](assets/images/pump-to-stage.png)
+
 #### Connection Diagram 📊
 
 It might be overkill but we should probably create a diagram of all the connections on the equipment we are renting for the following reasons:
