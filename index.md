@@ -10,7 +10,7 @@ An Electronic Festival at *The Dairy*
 
 A music festival for friends, by friends. The show will include:
 
-- 🎵 Five live DJs
+- 🎵 Live DJs
 - 🚦 Lights
 - 🔦 Lasers
 - 🥘 Food and Drinks
@@ -22,23 +22,8 @@ A music festival for friends, by friends. The show will include:
 The Electric Dairy Festival (EDF) is a music festival in Steamboat Springs, CO
 
 - Location: The Dairy
-- Date: July 2nd, 2022
-- Time: 7:00pm
+- Date: TBD
 
-### Schedule 📆
+### Past Events 📆
 
-| Time 🕓 | Description 💡 |
-| ------ | ----------- |
-| 7:00pm | Food and Drinks |
-| 8:20pm | The show starts to begin |
-| 8:30pm | DJ HRDR DDI |
-| 9:00pm | Steve & G Show |
-| 10:00pm | DJ Mac & Gs |
-| 11:00pm  | DJ Borscht |
-| 12:00pm | DJ Puddles |
-
-Once the show is over, we will be camping at the Dairy for the night ⛺
-
-### Bean Summit 🏔️
-
-Link to bean summit [here](./bean-summit.html)
+- [EDF 2022](./2022.html)
