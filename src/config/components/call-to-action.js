@@ -6,7 +6,7 @@ const callToAction = {
   enabled: true,
 
   // The title of the call to action component
-  title: 'Astro + Tailwind CSS',
+  title: 'Electronic Dairy Festival',
 
   // The subtitle of the call to action component (supports HTML)
   subtitle: `Be very surprised by these huge fake numbers you are seeing on this page. <br class="hidden md:inline" />Don't
@@ -15,7 +15,7 @@ const callToAction = {
   // Button configuration for the call to action component
   button: {
     // If the button should be displayed
-    enabled: true,
+    enabled: false,
     // The text of the button
     text: 'Get template',
     // The link of the button
