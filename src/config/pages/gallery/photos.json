@@ -1,121 +1,331 @@
 [
   {
     "key": 0,
-    "alt": "DJI_0273_LR.jpg",
-    "src": "/assets/gallery/DJI_0273_LR.jpg",
-    "width": 1820,
-    "height": 2732
+    "alt": "085EDDCC-F4F2-4E1D-9B0F-4464AA15BC18.jpg",
+    "src": "/assets/gallery/085EDDCC-F4F2-4E1D-9B0F-4464AA15BC18.jpg",
+    "width": 3520,
+    "height": 1980
   },
   {
     "key": 1,
-    "alt": "DJI_0402_LR-2.jpg",
-    "src": "/assets/gallery/DJI_0402_LR-2.jpg",
-    "width": 1456,
-    "height": 1820
+    "alt": "202288BB-6408-40C0-A4EB-A2727F4D11FA.jpg",
+    "src": "/assets/gallery/202288BB-6408-40C0-A4EB-A2727F4D11FA.jpg",
+    "width": 3520,
+    "height": 1980
   },
   {
     "key": 2,
-    "alt": "DJI_0716_LR.jpg",
-    "src": "/assets/gallery/DJI_0716_LR.jpg",
-    "width": 1366,
-    "height": 910
+    "alt": "2EF4FDCD-953D-4B76-87FA-2387C8CFA18D.jpg",
+    "src": "/assets/gallery/2EF4FDCD-953D-4B76-87FA-2387C8CFA18D.jpg",
+    "width": 4032,
+    "height": 3024
   },
   {
     "key": 3,
-    "alt": "DSC01402_LR.jpg",
-    "src": "/assets/gallery/DSC01402_LR.jpg",
-    "width": 1000,
-    "height": 1500
+    "alt": "44904166-0169-462B-8D48-967AFAD71FB4.jpg",
+    "src": "/assets/gallery/44904166-0169-462B-8D48-967AFAD71FB4.jpg",
+    "width": 4032,
+    "height": 3024
   },
   {
     "key": 4,
-    "alt": "DSC01780_LR.jpg",
-    "src": "/assets/gallery/DSC01780_LR.jpg",
-    "width": 1000,
-    "height": 1500
+    "alt": "D16B4A73-5606-4519-9A40-0F1FE023785B.jpg",
+    "src": "/assets/gallery/D16B4A73-5606-4519-9A40-0F1FE023785B.jpg",
+    "width": 4032,
+    "height": 3024
   },
   {
     "key": 5,
-    "alt": "DSC02592_LR.jpg",
-    "src": "/assets/gallery/DSC02592_LR.jpg",
-    "width": 1200,
-    "height": 800
+    "alt": "IMG_20220702_215009.jpg",
+    "src": "/assets/gallery/IMG_20220702_215009.jpg",
+    "width": 4608,
+    "height": 2112
   },
   {
     "key": 6,
-    "alt": "IMG_0912_LR.jpg",
-    "src": "/assets/gallery/IMG_0912_LR.jpg",
-    "width": 2189,
-    "height": 1459
+    "alt": "IMG_20220703_002203.jpg",
+    "src": "/assets/gallery/IMG_20220703_002203.jpg",
+    "width": 4608,
+    "height": 2112
   },
   {
     "key": 7,
-    "alt": "IMG_0954_LR.jpg",
-    "src": "/assets/gallery/IMG_0954_LR.jpg",
-    "width": 2736,
-    "height": 1824
+    "alt": "IMG_3958.jpg",
+    "src": "/assets/gallery/IMG_3958.jpg",
+    "width": 3024,
+    "height": 4032
   },
   {
     "key": 8,
-    "alt": "IMG_1456_LR.jpg",
-    "src": "/assets/gallery/IMG_1456_LR.jpg",
-    "width": 3648,
-    "height": 5472
+    "alt": "IMG_3962.jpg",
+    "src": "/assets/gallery/IMG_3962.jpg",
+    "width": 3024,
+    "height": 4032
   },
   {
     "key": 9,
-    "alt": "IMG_2183_LR.jpg",
-    "src": "/assets/gallery/IMG_2183_LR.jpg",
-    "width": 1467,
-    "height": 2200
+    "alt": "IMG_3965.jpg",
+    "src": "/assets/gallery/IMG_3965.jpg",
+    "width": 3024,
+    "height": 4032
   },
   {
     "key": 10,
-    "alt": "IMG_2203_LR.jpg",
-    "src": "/assets/gallery/IMG_2203_LR.jpg",
-    "width": 1186,
-    "height": 1778
+    "alt": "IMG_3971.jpg",
+    "src": "/assets/gallery/IMG_3971.jpg",
+    "width": 3024,
+    "height": 4032
   },
   {
     "key": 11,
-    "alt": "IMG_4730_LR.jpg",
-    "src": "/assets/gallery/IMG_4730_LR.jpg",
-    "width": 2736,
-    "height": 1824
+    "alt": "IMG_3973.jpg",
+    "src": "/assets/gallery/IMG_3973.jpg",
+    "width": 3024,
+    "height": 4032
   },
   {
     "key": 12,
-    "alt": "IMG_8090_LR.jpg",
-    "src": "/assets/gallery/IMG_8090_LR.jpg",
+    "alt": "IMG_3974.jpg",
+    "src": "/assets/gallery/IMG_3974.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "key": 13,
+    "alt": "IMG_3977.jpg",
+    "src": "/assets/gallery/IMG_3977.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "key": 14,
+    "alt": "IMG_3983.png",
+    "src": "/assets/gallery/IMG_3983.png",
+    "width": 1170,
+    "height": 1705
+  },
+  {
+    "key": 15,
+    "alt": "IMG_3999.png",
+    "src": "/assets/gallery/IMG_3999.png",
+    "width": 936,
+    "height": 1600
+  },
+  {
+    "key": 16,
+    "alt": "IMG_4001.png",
+    "src": "/assets/gallery/IMG_4001.png",
+    "width": 981,
+    "height": 502
+  },
+  {
+    "key": 17,
+    "alt": "IMG_4002.png",
+    "src": "/assets/gallery/IMG_4002.png",
+    "width": 958,
+    "height": 1823
+  },
+  {
+    "key": 18,
+    "alt": "IMG_4003.png",
+    "src": "/assets/gallery/IMG_4003.png",
+    "width": 974,
+    "height": 1869
+  },
+  {
+    "key": 19,
+    "alt": "IMG_4354_LR.jpg",
+    "src": "/assets/gallery/IMG_4354_LR.jpg",
     "width": 1368,
     "height": 912
   },
   {
-    "key": 13,
-    "alt": "IMG_8686_LR.jpg",
-    "src": "/assets/gallery/IMG_8686_LR.jpg",
-    "width": 2736,
-    "height": 1824
+    "key": 20,
+    "alt": "IMG_4359_LR.jpg",
+    "src": "/assets/gallery/IMG_4359_LR.jpg",
+    "width": 1368,
+    "height": 912
   },
   {
-    "key": 14,
-    "alt": "IMG_9600_LR.jpg",
-    "src": "/assets/gallery/IMG_9600_LR.jpg",
-    "width": 2736,
-    "height": 1824
+    "key": 21,
+    "alt": "IMG_4360_LR.jpg",
+    "src": "/assets/gallery/IMG_4360_LR.jpg",
+    "width": 1368,
+    "height": 912
   },
   {
-    "key": 15,
-    "alt": "IMG_9751-HDR_LR.jpg",
-    "src": "/assets/gallery/IMG_9751-HDR_LR.jpg",
-    "width": 2726,
-    "height": 1818
+    "key": 22,
+    "alt": "IMG_4364_LR.jpg",
+    "src": "/assets/gallery/IMG_4364_LR.jpg",
+    "width": 1368,
+    "height": 912
   },
   {
-    "key": 16,
-    "alt": "howelsen-hill.jpg",
-    "src": "/assets/gallery/howelsen-hill.jpg",
-    "width": 1095,
-    "height": 730
+    "key": 23,
+    "alt": "IMG_4368_LR.jpg",
+    "src": "/assets/gallery/IMG_4368_LR.jpg",
+    "width": 1368,
+    "height": 912
+  },
+  {
+    "key": 24,
+    "alt": "IMG_4372_LR.jpg",
+    "src": "/assets/gallery/IMG_4372_LR.jpg",
+    "width": 1026,
+    "height": 684
+  },
+  {
+    "key": 25,
+    "alt": "IMG_4386_LR.jpg",
+    "src": "/assets/gallery/IMG_4386_LR.jpg",
+    "width": 1368,
+    "height": 770
+  },
+  {
+    "key": 26,
+    "alt": "IMG_8047.jpg",
+    "src": "/assets/gallery/IMG_8047.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "key": 27,
+    "alt": "IMG_8052.jpg",
+    "src": "/assets/gallery/IMG_8052.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "key": 28,
+    "alt": "IMG_8623.jpg",
+    "src": "/assets/gallery/IMG_8623.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "key": 29,
+    "alt": "IMG_8626.jpg",
+    "src": "/assets/gallery/IMG_8626.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "key": 30,
+    "alt": "S115V-speaker.png",
+    "src": "/assets/gallery/S115V-speaker.png",
+    "width": 643,
+    "height": 765
+  },
+  {
+    "key": 31,
+    "alt": "amp.jpg",
+    "src": "/assets/gallery/amp.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  {
+    "key": 32,
+    "alt": "apartment-to-stage.png",
+    "src": "/assets/gallery/apartment-to-stage.png",
+    "width": 730,
+    "height": 789
+  },
+  {
+    "key": 33,
+    "alt": "chauvet-cubix.png",
+    "src": "/assets/gallery/chauvet-cubix.png",
+    "width": 573,
+    "height": 643
+  },
+  {
+    "key": 34,
+    "alt": "chauvet-slim-par.png",
+    "src": "/assets/gallery/chauvet-slim-par.png",
+    "width": 631,
+    "height": 744
+  },
+  {
+    "key": 35,
+    "alt": "default.png",
+    "src": "/assets/gallery/default.png",
+    "width": 2400,
+    "height": 1256
+  },
+  {
+    "key": 36,
+    "alt": "eclipse.jpg",
+    "src": "/assets/gallery/eclipse.jpg",
+    "width": 225,
+    "height": 225
+  },
+  {
+    "key": 37,
+    "alt": "edf-map.png",
+    "src": "/assets/gallery/edf-map.png",
+    "width": 1576,
+    "height": 950
+  },
+  {
+    "key": 38,
+    "alt": "full-order.png",
+    "src": "/assets/gallery/full-order.png",
+    "width": 487,
+    "height": 610
+  },
+  {
+    "key": 39,
+    "alt": "hero.png",
+    "src": "/assets/gallery/hero.png",
+    "width": 1600,
+    "height": 939
+  },
+  {
+    "key": 40,
+    "alt": "main-to-stage.png",
+    "src": "/assets/gallery/main-to-stage.png",
+    "width": 916,
+    "height": 815
+  },
+  {
+    "key": 41,
+    "alt": "poster.png",
+    "src": "/assets/gallery/poster.png",
+    "width": 1170,
+    "height": 1560
+  },
+  {
+    "key": 42,
+    "alt": "pump-to-stage.png",
+    "src": "/assets/gallery/pump-to-stage.png",
+    "width": 1170,
+    "height": 587
+  },
+  {
+    "key": 43,
+    "alt": "qsc-sub.png",
+    "src": "/assets/gallery/qsc-sub.png",
+    "width": 801,
+    "height": 581
+  },
+  {
+    "key": 44,
+    "alt": "trussing.png",
+    "src": "/assets/gallery/trussing.png",
+    "width": 417,
+    "height": 635
+  },
+  {
+    "key": 45,
+    "alt": "wall-outlets.png",
+    "src": "/assets/gallery/wall-outlets.png",
+    "width": 602,
+    "height": 502
+  },
+  {
+    "key": 46,
+    "alt": "workshop-to-stage.png",
+    "src": "/assets/gallery/workshop-to-stage.png",
+    "width": 1613,
+    "height": 917
   }
 ]
