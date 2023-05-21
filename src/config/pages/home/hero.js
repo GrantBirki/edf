@@ -28,7 +28,7 @@ const hero = {
     // CTA text
     text: 'Get template',
     // CTA link
-    href: 'https://github.com/grantbirki/astrowind',
+    href: 'https://github.com/grantbirki/edf',
     // Target html <a> tag
     target: '_blank',
     // Rel html <a> tag
@@ -59,7 +59,7 @@ const hero = {
     // Image source
     src: import('~/assets/images/hero.png'),
     // Image alt text
-    alt: 'AstroWind Hero Image',
+    alt: 'EDF Hero Image',
   },
 };
 

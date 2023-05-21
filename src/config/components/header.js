@@ -52,14 +52,6 @@ const headerData = {
           text: 'Contact',
           href: '#',
         },
-        {
-          text: 'Terms',
-          href: getPermalink('/terms'),
-        },
-        {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
-        },
       ],
     },
 
@@ -82,7 +74,7 @@ const headerData = {
       // text to display on the button
       text: 'Download',
       // link to go to when the button is clicked
-      href: 'https://github.com/grantbirki/astrowind',
+      href: 'https://github.com/grantbirki/edf',
       // can be 'button', 'primary', or 'ghost'
       type: 'button',
       // HTML rel attribute

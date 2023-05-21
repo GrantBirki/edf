@@ -1,6 +1,6 @@
 {
-  "name": "astrowind",
-  "description": "A template to make a website using Astro + Tailwind CSS + GitHub Pages",
+  "name": "edf",
+  "description": "EDF website",
   "version": "0.0.0",
   "private": true,
   "scripts": {

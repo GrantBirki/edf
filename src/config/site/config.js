@@ -5,16 +5,16 @@ import blog from './blog';
 
 const CONFIG = {
   // The name of the website
-  name: 'AstroWind',
+  name: 'Electronic Dairy Festival',
   // The origin of the website (without trailing slash)
-  origin: 'https://astro-demo.birki.io',
+  origin: 'https://edf.birki.io',
   // The base pathname of the website
   basePathname: '/',
   // If the website uses trailing slashes in the URLs
   trailingSlash: false,
 
   // The website title which is displayed in the browser tab
-  title: 'AstroWind — Free template for create a website with Astro + Tailwind CSS + GitHub Pages',
+  title: 'EDF — Electronic Dairy Festival',
 
   // Website description
   description:
