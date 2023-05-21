@@ -3,7 +3,7 @@ publishDate: 2023-01-08T00:00:00Z
 title: AstroWind template in depth
 description: Lorem ipsum dolor sit amet
 excerpt: Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas
-image: ~/assets/images/stickers.jpg
+image: ~/assets/planning/colors-public.jpg
 category: Tutorials
 tags:
   - astro
@@ -24,7 +24,7 @@ Information about planning for EDF
 
 A map of suggested areas for EDF at the Dairy
 
-![edf-map](assets/images/edf-map.png)
+![edf-map](/assets/planning/edf-map.png)
 
 ### Pickup / Drop off 🚗
 
@@ -47,11 +47,11 @@ Colorado Mobile Music Info:
 
 For the main stage, we will be using the trussing as seen below. We can mount Daniel's light board to the trussing as well
 
-![trussing](assets/images/trussing.png)
+![trussing](/assets/planning/trussing.png)
 
 The full order from Colorado Mobile Music is as follows:
 
-![full-order](assets/images/full-order.png)
+![full-order](/assets/planning/full-order.png)
 
 ### Power Consumption 🔌
 
@@ -61,7 +61,7 @@ This section will go into details about power consumption estimates for all equi
 
 Information about standard wall outlets that we will likely be using
 
-![wall-outlets](assets/images/wall-outlets.png)
+![wall-outlets](/assets/planning/wall-outlets.png)
 
 - Standard US Wall Socket: 15 amps \* 120 Volts = 1800 watts -> max safe: **1440 watts**
 - Thicc US Wall Socket: 20 amps \* 120 Volts = 2400 watts -> max safe: **1920 watts**
@@ -72,11 +72,11 @@ Information about standard wall outlets that we will likely be using
 
 | Item 🔈                                                    | Max Power (watts) ⚡ |
 | ---------------------------------------------------------- | -------------------- |
-| [Yamaha S115V 1000W 15](assets/images/S115V-speaker.png)   | 500W x2              |
-| [QSC KW181](assets/images/qsc-sub.png)                     | 300W x2              |
-| [Eclipse Laser](assets/images/eclipse.jpg)                 | 10W                  |
-| [Chauvet Slim Par IRC](assets/images/chauvet-slim-par.png) | 140W x2              |
-| [Chauvet Cubix](assets/images/chauvet-cubix.png)           | 55W x2               |
+| [Yamaha S115V 1000W 15](/assets/planning/S115V-speaker.png)   | 500W x2              |
+| [QSC KW181](/assets/planning/qsc-sub.png)                     | 300W x2              |
+| [Eclipse Laser](/assets/planning/eclipse.jpg)                 | 10W                  |
+| [Chauvet Slim Par IRC](/assets/planning/chauvet-slim-par.png) | 140W x2              |
+| [Chauvet Cubix](/assets/planning/chauvet-cubix.png)           | 55W x2               |
 | [3200W Samson AMP](assets/files/samson-amp-specs.pdf)      | 750W x2              |
 | [Bean Board](https://github.com/GrantBirki/bean-board)     | 600 W                |
 | **TOTAL**                                                  | **4,100W**           |
@@ -87,19 +87,19 @@ Information about standard wall outlets that we will likely be using
 
 Apartment to Stage (shortest) - **91 ft**
 
-![apartment-to-stage](assets/images/apartment-to-stage.png)
+![apartment-to-stage](/assets/planning/apartment-to-stage.png)
 
 Workshop to Stage (highest power location) - **156 ft**
 
-![workshop-to-stage](assets/images/workshop-to-stage.png)
+![workshop-to-stage](/assets/planning/workshop-to-stage.png)
 
 Main House to Stage (long) - **215 ft**
 
-![main-to-stage](assets/images/main-to-stage.png)
+![main-to-stage](/assets/planning/main-to-stage.png)
 
 Pond Pump to Stage (probably not usable due to outlet type) - **255 ft**
 
-![pump-to-stage](assets/images/pump-to-stage.png)
+![pump-to-stage](/assets/planning/pump-to-stage.png)
 
 #### Connection Diagram 📊
 
