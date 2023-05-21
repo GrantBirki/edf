@@ -1,9 +1,10 @@
 ---
 publishDate: 2022-07-01T00:00:00Z
-title: AstroWind template in depth
-description: Lorem ipsum dolor sit amet
-excerpt: Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas
+title: EDF 2022 Planning
+description: Planning for the 2022 event
+excerpt: This post contains planning information used around the 2022 EDF event
 category: Planning
+image: ~/assets/images/edf-map.png
 tags:
   - planning
   - edf
