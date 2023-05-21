@@ -75,7 +75,7 @@ Information about standard wall outlets that we will likely be using
 | [Eclipse Laser](/assets/planning/eclipse.jpg)                 | 10W                  |
 | [Chauvet Slim Par IRC](/assets/planning/chauvet-slim-par.png) | 140W x2              |
 | [Chauvet Cubix](/assets/planning/chauvet-cubix.png)           | 55W x2               |
-| [3200W Samson AMP](assets/files/samson-amp-specs.pdf)      | 750W x2              |
+| [3200W Samson AMP](assets/planning/samson-amp-specs.pdf)      | 750W x2              |
 | [Bean Board](https://github.com/GrantBirki/bean-board)     | 600 W                |
 | **TOTAL**                                                  | **4,100W**           |
 
