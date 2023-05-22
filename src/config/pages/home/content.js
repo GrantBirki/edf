@@ -10,35 +10,33 @@ const content = {
     enabled: true,
 
     // Small highlight text to go above the title
-    highlight: 'Inside template',
+    highlight: 'EDF Details',
 
     // Main title text of the primary content component
-    title: "And what's inside? ...",
+    title: "So what all is EDF? ...",
 
     // Main description text of the primary content component (HTML supported)
-    description: `<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Ad vix debet docendi</h3>
-    Ne dicta praesent ocurreret has, diam theophrastus at pro. Eos etiam regione ut, persius eripuit quo id. Sit
-    te euismod tacimates.`,
+    description: `EDF is an event put together by friends. It started many years ago as a small gathering with fireworks and a barbecue to celebrate the summer in Steamboat Springs. It has since evolved to become a gathering of friends and a night of food, drinks, and dancing to electronic music.`,
 
     // The items to be displayed in the primary section
     items: [
       {
-        title: 'Per ei quaeque sensibus',
+        title: 'Music',
         description:
-          'Ex usu illum iudico molestie. Pro ne agam facete mediocritatem, ridens labore facete mea ei. Pro id apeirian dignissim.',
-        icon: 'tabler:mood-smile',
+          'Many of our friends have recently gotten into DJing and so we have music at the forefront of EDF. We have several DJs who will be playing a variety of electronic music throughout the night.',
+        icon: 'tabler:headphones',
       },
       {
-        title: 'Cu imperdiet posidonium sed',
+        title: 'Food, Drinks, and Alcohol',
         description:
-          'Amet utinam aliquando ut mea, malis admodum ocurreret nec et, elit tibique cu nec. Nec ex maluisset inciderint, ex quis.',
-        icon: 'tabler:rocket',
+          'We will have a variety of food that will be grilled up and you can take what you like. It is also BYOB so bring your favorite drinks and alcohol (and extra food too).',
+        icon: 'tabler:beer',
       },
       {
-        title: 'Nulla omittam sadipscing mel ne',
+        title: 'Camping',
         description:
-          'At sed possim oporteat probatus, justo graece ne nec, minim commodo legimus ut vix. Ut eos iudico quando soleat, nam modus.',
-        icon: 'tabler:bolt',
+          'The majority of us camp out at the venue after the music ends. There is plenty of space to camp in your car, tent, or hammock.',
+        icon: 'tabler:tent',
       },
     ],
 
@@ -49,7 +47,7 @@ const content = {
       // Alt text for the image
       alt: 'Colorful Image',
       // The image to be displayed
-      src: import('~/assets/images/poster.png'),
+      src: import('~/assets/images/IMG_3983.png'),
     },
   },
 
@@ -61,22 +59,22 @@ const content = {
     // Items to be displayed in the secondary section
     items: [
       {
-        title: 'Per ei quaeque sensibus',
+        title: '100% Free',
       },
       {
-        title: 'Cu imperdiet posidonium sed',
+        title: 'Food, Drinks, and Alcohol',
       },
       {
-        title: 'Nulla omittam sadipscing mel ne',
+        title: 'Live DJs',
       },
       {
-        title: 'Per ei quaeque sensibus',
+        title: 'Lights, Lasers, and Fireworks',
       },
       {
-        title: 'Cu imperdiet posidonium sed',
+        title: 'Camping',
       },
       {
-        title: 'Nulla omittam sadipscing mel ne',
+        title: 'Friends',
       },
     ],
 
@@ -87,7 +85,7 @@ const content = {
       // Alt text for the image
       alt: 'Vintage Image',
       // The image to be displayed
-      src: import('~/assets/images/poster.png'),
+      src: import('~/assets/images/IMG_4386_LR.jpg'),
     },
   },
 };
