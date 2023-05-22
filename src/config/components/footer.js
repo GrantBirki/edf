@@ -8,51 +8,29 @@ const footerData = {
   // List of links to be displayed in the footer
   links: [
     {
-      // The title of the section
-      title: 'Product',
-      // List of links to be displayed in the section
+      title: 'Planning',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Event Planning Details', href: '/planning' },
+        { text: 'Website Source Code', href: 'https://github.com/grantbirki/edf' },
       ],
     },
     {
-      title: 'Platform',
+      title: 'Blog',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'The EDF Blog', href: '/blog' },
       ],
     },
     {
-      title: 'Support',
+      title: 'Photo Gallery',
       links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
-      ],
-    },
-    {
-      title: 'Company',
-      links: [
-        { text: 'About', href: '#' },
-        { text: 'Team', href: getPermalink('/team') },
         { text: 'Gallery', href: getPermalink('/gallery') },
-        { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+      ],
+    },
+    {
+      title: 'About EDF',
+      links: [
+        { text: 'About', href: '/about' },
+        { text: 'Team', href: getPermalink('/team') },
       ],
     },
   ],
