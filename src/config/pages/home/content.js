@@ -13,7 +13,7 @@ const content = {
     highlight: 'EDF Details',
 
     // Main title text of the primary content component
-    title: "So what all is EDF? ...",
+    title: 'So what all is EDF? ...',
 
     // Main description text of the primary content component (HTML supported)
     description: `EDF is an event put together by friends. It started many years ago as a small gathering with fireworks and a barbecue to celebrate the summer in Steamboat Springs. It has since evolved to become a gathering of friends and a night of food, drinks, and dancing to electronic music.`,
