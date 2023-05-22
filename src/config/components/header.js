@@ -37,8 +37,7 @@ const headerData = {
   ],
 
   // List of buttons to be displayed in the header
-  actions: [
-  ],
+  actions: [],
 };
 
 export default headerData;

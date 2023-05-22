@@ -13,10 +13,7 @@ const featuredPosts = {
 
   // The list of posts to be displayed
   // These ids are the file names of the posts in the content/post folder
-  postIds: [
-    'edf-2023.md',
-    'edf-2022-memories.md',
-  ],
+  postIds: ['edf-2023.md', 'edf-2022-memories.md'],
 };
 
 export default featuredPosts;

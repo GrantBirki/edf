@@ -16,15 +16,11 @@ const footerData = {
     },
     {
       title: 'Blog',
-      links: [
-        { text: 'The EDF Blog', href: '/blog' },
-      ],
+      links: [{ text: 'The EDF Blog', href: '/blog' }],
     },
     {
       title: 'Photo Gallery',
-      links: [
-        { text: 'Gallery', href: getPermalink('/gallery') },
-      ],
+      links: [{ text: 'Gallery', href: getPermalink('/gallery') }],
     },
     {
       title: 'About EDF',
@@ -36,13 +32,10 @@ const footerData = {
   ],
 
   // Secondary links to be displayed in the footer
-  secondaryLinks: [
-  ],
+  secondaryLinks: [],
 
   // A list of social links to be displayed in the footer
-  socialLinks: [
-    { ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/grantbirki/edf' },
-  ],
+  socialLinks: [{ ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/grantbirki/edf' }],
 
   // The footnote to be displayed in the footer (can contain HTML)
   footNote: `

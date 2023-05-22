@@ -69,16 +69,16 @@ Information about standard wall outlets that we will likely be using
 
 > Note: All numbers are rounded up for safety
 
-| Item 🔈                                                    | Max Power (watts) ⚡ |
-| ---------------------------------------------------------- | -------------------- |
+| Item 🔈                                                       | Max Power (watts) ⚡ |
+| ------------------------------------------------------------- | -------------------- |
 | [Yamaha S115V 1000W 15](/assets/planning/S115V-speaker.png)   | 500W x2              |
 | [QSC KW181](/assets/planning/qsc-sub.png)                     | 300W x2              |
 | [Eclipse Laser](/assets/planning/eclipse.jpg)                 | 10W                  |
 | [Chauvet Slim Par IRC](/assets/planning/chauvet-slim-par.png) | 140W x2              |
 | [Chauvet Cubix](/assets/planning/chauvet-cubix.png)           | 55W x2               |
 | [3200W Samson AMP](assets/planning/samson-amp-specs.pdf)      | 750W x2              |
-| [Bean Board](https://github.com/GrantBirki/bean-board)     | 600 W                |
-| **TOTAL**                                                  | **4,100W**           |
+| [Bean Board](https://github.com/GrantBirki/bean-board)        | 600 W                |
+| **TOTAL**                                                     | **4,100W**           |
 
 #### Extension Cable Distance 📏
 
