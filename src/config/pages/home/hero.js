@@ -7,7 +7,7 @@ const hero = {
   // Hero title with HTML support
   title: {
     enabled: true, // If the title should be enabled or not
-    text: `Free template for<span class="text-accent dark:text-white highlight"> Astro 2.0</span> + Tailwind CSS + GitHub Pages`,
+    text: `<span class="text-accent dark:text-white highlight">E</span>lectronic <span class="text-accent dark:text-white highlight">D</span>airy <span class="text-accent dark:text-white highlight">F</span>estival`,
   },
 
   // Hero subtitle with HTML support
