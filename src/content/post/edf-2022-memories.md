@@ -8,7 +8,7 @@ image: ~/assets/images/poster.png
 tags:
   - '2022'
   - edf
-canonical: https://edf.birki.io/edf-2022
+canonical: https://edf.birki.io/edf-2022-memories
 ---
 
 ## EDF 2022 🎧

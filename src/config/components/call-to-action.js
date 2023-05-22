@@ -15,15 +15,15 @@ const callToAction = {
   // Button configuration for the call to action component
   button: {
     // If the button should be displayed
-    enabled: false,
+    enabled: true,
     // The text of the button
     text: 'Get template',
     // The link of the button
-    href: 'https://github.com/grantbirki/edf',
+    href: '/edf-2023',
     // The icon to the left of the button text
     icon: 'tabler:download',
     // HTML target attribute
-    target: '_blank',
+    target: '_self',
     // HTML rel attribute
     rel: 'noopener',
   },
