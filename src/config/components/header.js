@@ -8,18 +8,14 @@ const headerData = {
   // List of links to be displayed in the header
   links: [
     {
+      text: 'EDF 2023',
+      href: '/edf-2023',
+    },
+    {
       text: 'Pages',
       links: [
         {
-          text: 'Features',
-          href: '#',
-        },
-        {
-          text: 'Pricing',
-          href: '#',
-        },
-        {
-          text: 'About us',
+          text: 'About',
           href: getPermalink('/about'),
         },
         {
@@ -29,10 +25,6 @@ const headerData = {
         {
           text: 'Gallery',
           href: getPermalink('/gallery'),
-        },
-        {
-          text: 'Contact',
-          href: '#',
         },
       ],
     },
