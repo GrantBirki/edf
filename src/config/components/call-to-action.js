@@ -6,22 +6,21 @@ const callToAction = {
   enabled: true,
 
   // The title of the call to action component
-  title: 'Electronic Dairy Festival',
+  title: 'EDF 2023',
 
   // The subtitle of the call to action component (supports HTML)
-  subtitle: `Be very surprised by these huge fake numbers you are seeing on this page. <br class="hidden md:inline" />Don't
-    waste more time! :P`,
+  subtitle: `Want to join us for EDF 2023? Click below to learn more about the event!`,
 
   // Button configuration for the call to action component
   button: {
     // If the button should be displayed
     enabled: true,
     // The text of the button
-    text: 'Get template',
+    text: 'Learn More',
     // The link of the button
     href: '/edf-2023',
     // The icon to the left of the button text
-    icon: 'tabler:download',
+    icon: 'tabler:confetti',
     // HTML target attribute
     target: '_self',
     // HTML rel attribute
