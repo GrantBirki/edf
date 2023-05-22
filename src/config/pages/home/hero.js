@@ -13,18 +13,14 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="hidden sm:inline">
-    <span class="font-semibold">AstroWind</span> is a free, customizable and production-ready template for Astro 2.0
-    + Tailwind CSS.</span
-    >
-    <span class="block mb-1 sm:hidden font-bold text-blue-600">AstroWind: Production-ready.</span> Suitable for Startups,
-    Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.`,
+    text: `
+    <span class="font-semibold">EDF</span> is the premier electronic bean event of the summer. It is a gathering of friends, for friends, by friends.`,
   },
 
   // First CTA block
   callToAction: {
     // Enable or disable first CTA
-    enabled: true,
+    enabled: false,
     // CTA text
     text: 'Get template',
     // CTA link
@@ -40,7 +36,7 @@ const hero = {
   // Second CTA block (optional)
   callToAction2: {
     // Enable or disable second CTA
-    enabled: true,
+    enabled: false,
     // CTA text
     text: 'Learn more',
     // CTA link
@@ -57,7 +53,7 @@ const hero = {
     // If the image should be enabled or not
     enabled: true,
     // Image source
-    src: import('~/assets/images/poster.png'),
+    src: import('~/assets/images/hero.png'),
     // Image alt text
     alt: 'EDF Hero Image',
   },

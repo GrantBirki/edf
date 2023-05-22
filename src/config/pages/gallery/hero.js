@@ -14,7 +14,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `A collection of photos to share with you`,
+    text: `A collection of photos from past EDF events`,
   },
 
   // First CTA block
@@ -24,7 +24,7 @@ const hero = {
     // CTA text
     text: 'Get template',
     // CTA link
-    href: 'https://github.com/grantbirki/astrowind',
+    href: 'https://github.com/grantbirki/edf',
     // Target html <a> tag
     target: '_blank',
     // Rel html <a> tag
@@ -53,7 +53,7 @@ const hero = {
     // If the image should be enabled or not
     enabled: true,
     // Image source
-    src: import('~/assets/images/hero.png'),
+    src: import('~/assets/images/IMG_8623.jpg'),
     // Image alt text
     alt: 'Hero image',
   },

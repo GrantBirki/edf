@@ -211,41 +211,6 @@
   },
   {
     "key": 30,
-    "alt": "apartment-to-stage.png",
-    "src": "/assets/gallery/apartment-to-stage.png",
-    "width": 730,
-    "height": 789
-  },
-  {
-    "key": 31,
-    "alt": "chauvet-cubix.png",
-    "src": "/assets/gallery/chauvet-cubix.png",
-    "width": 573,
-    "height": 643
-  },
-  {
-    "key": 32,
-    "alt": "chauvet-slim-par.png",
-    "src": "/assets/gallery/chauvet-slim-par.png",
-    "width": 631,
-    "height": 744
-  },
-  {
-    "key": 33,
-    "alt": "default.png",
-    "src": "/assets/gallery/default.png",
-    "width": 2400,
-    "height": 1256
-  },
-  {
-    "key": 34,
-    "alt": "hero.png",
-    "src": "/assets/gallery/hero.png",
-    "width": 1600,
-    "height": 939
-  },
-  {
-    "key": 35,
     "alt": "poster.png",
     "src": "/assets/gallery/poster.png",
     "width": 1170,
