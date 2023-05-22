@@ -3,8 +3,4 @@ title: 'About'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-![colors](/assets/colors-public.jpg)
-
-This template is a starter template for creating a website with Astro! 🚀
-
-It supports branch deploys, how neat is that?
+Electronic Dairy Festival (EDF) is an event organized for friends, by friends. It takes place each summer around the 4th of July weekend and includes fireworks, live music, food, drinks, and camping! The event is held at Ian's dairy in Steamboat Springs, CO.
