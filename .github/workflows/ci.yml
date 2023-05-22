@@ -1,0 +1,41 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: astro build cache
+        id: astro-build-cache
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: ${{ runner.os }}-astro-build-${{ hashFiles('**/cache.json') }}
+
+      - name: setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - name: install dependencies
+        run: npm ci
+
+      - name: check
+        run: npm run astro check
+
+      - name: build
+        run: npm run build

@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+
 <!-- See the link below for markdown examples with this template -->
 <!-- https://github.com/pages-themes/cayman/blob/master/index.md -->
 
 # EDF 🎧
 
-An Electronic Festival at *The Dairy*
+An Electronic Festival at _The Dairy_
 
 A music festival for friends, by friends. The show will include:
 
