@@ -2,58 +2,58 @@
 
 const features = {
   // If the features component should be enabled or not on the homepage
-  enabled: false,
+  enabled: true,
 
   // highlight text for the features component
-  highlight: 'Features',
+  highlight: 'Bring the Bass',
 
   // Title for the features component
-  title: 'What you get with AstroWind',
+  title: 'For Friends, By Friends',
 
   // Subtitle for the features component
   subtitle:
-    'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.',
+    'EDF is the premier electronic bean event of the summer. It is a gathering for friends, by friends. Here are some highlights of what you can expect at EDF',
 
   // List of features to display with HTML support
   items: [
     [
       {
-        title: 'Astro + Tailwind CSS Integration',
+        title: 'Bass',
         description:
-          'A seamless integration between two great frameworks that offer high productivity, performance and versatility.',
-        icon: 'tabler:brand-tailwind',
+          'We use only the finest of subs to make your innards shake and the cows moo.',
+        icon: 'tabler:device-speaker',
       },
       {
-        title: 'Ready-to-use Components',
+        title: 'Lights',
         description:
-          'Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...',
-        icon: 'tabler:components',
+          'We have a full lighting setup including a custom build LED wall',
+        icon: 'tabler:bulb',
       },
       {
-        title: 'Best Practices',
+        title: 'Lasers',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.',
-        icon: 'tabler:list-check',
+          'Our lighting setup also includes lasers because what is electronic music without lasers?',
+        icon: 'tabler:ad-2',
       },
     ],
     [
       {
-        title: 'Excellent Page Speed',
+        title: 'Live DJs',
         description:
-          'Having a good page speed impacts organic search ranking, improves user experience (UI/UX) and increase conversion rates.',
-        icon: 'tabler:rocket',
+          'We have a full lineup of DJs who are our friends and share the love of electronic music.',
+        icon: 'tabler:headphones',
       },
       {
-        title: 'Search Engine Optimization (SEO)',
+        title: 'Fireworks',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.',
-        icon: 'tabler:arrows-right-left',
+          'EDF takes place near the 4th of July so naturally we have fireworks.',
+        icon: 'tabler:stars',
       },
       {
-        title: 'Open to new ideas and contributions',
+        title: 'Friends',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.',
-        icon: 'tabler:bulb',
+          'EDF is a gathering for friends, by friends. There will be plenty of food, drinks, alcohol, and friends.',
+        icon: 'tabler:friends',
       },
     ],
   ],
