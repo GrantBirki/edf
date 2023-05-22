@@ -2,7 +2,7 @@
 
 const faqs = {
   // If the faqs component should be enabled or not on the homepage
-  enabled: false,
+  enabled: true,
 
   // highlight text for the faqs component
   highlight: 'FAQs',
@@ -12,42 +12,42 @@ const faqs = {
 
   // Subtitle for the faqs component
   subtitle:
-    'Duis turpis duaaaa, fringilla mattis sem nec, fringilla euismod neque. Morbi tincidunt lacus nec tortor scelerisque pulvinar.',
+    'Here are some of the most frequently asked questions about EDF',
 
   // List of FAQs to display with HTML support
   items: [
     [
       {
-        question: 'What do I need to start?',
+        question: 'Can I camp at EDF?',
         answer:
-          'Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds. Many say exploration is part of our destiny, but it’s actually our duty to future generations.',
+          'Absolutely! Camping is actually encouraged. We have a large camping area with plenty of room for everyone. Bring your own tent, RV, or whatever stuff you need to camp. It can get cold at night, so bring warm clothes and blankets.',
       },
       {
-        question: 'How to install the Astro + Tailwind CSS template?',
+        question: 'What should I bring?',
         answer:
-          "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
+          "You can really bring anything you want but here is a quick list of things we usually suggest in no particular order: water, warm clothes, food, your own alcohol, a tent, a sleeping bag, sunscreen, cups, chips, a flashlight, goofy costumes, a blanket, and good vibes. You may want earplugs if you are sensitive to loud music.",
       },
       {
-        question: "What's something that you don't understand?",
+        question: "What should I not bring?",
         answer:
-          "A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.",
+          "Please do not bring anything that may create a lot of trash or waste. We are trying to keep the area as clean as possible because it is a working dairy and we want to keep the land clean. Please do not bring glowsticks, confetti, or anything of that sort.",
       },
     ],
     [
       {
-        question: "What's an example of when you changed your mind?",
+        question: "What type of music will be played?",
         answer:
-          "Michael Knight a young loner on a crusade to champion the cause of the innocent. The helpless. The powerless in a world of criminals who operate above the law. Here he comes Here comes Speed Racer. He's a demon on wheels.",
+          "Electronic music of all kinds and flavors. A variety of DJs at varying level of intoxication will be performing.",
       },
       {
-        question: 'What is something that you would like to try again?',
+        question: 'Does the event cost money?',
         answer:
-          "A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in.",
+          "Nope! EDF is 100% free but if you would like to toss us a few bucks via Venmo we will have QR codes floating about. The equipment we rent is expensive and we would appreciate any help we can get to cover those costs.",
       },
       {
-        question: 'If you could only ask one question to each person you meet, what would that question be?',
+        question: 'Can I invite my friends?',
         answer:
-          "This is not about revenge. This is about justice. A lot of things can change in twelve years, Admiral. Well, that's certainly good to know. About four years. I got tired of hearing how young I looked.",
+          "Of course! This event is by friends and for friends. Bring them along!",
       },
     ],
   ],
