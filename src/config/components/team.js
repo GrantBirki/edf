@@ -5,72 +5,58 @@ const team = {
   enabled: true,
 
   // The title of the team section
-  title: 'Our Team',
+  title: 'The EDF Team',
 
   // The subtitle of the team section
-  description: 'Meet the team behind this project',
+  description: 'Meet the team behind EDF',
 
   // Members of the team
   members: [
     {
       // The name of the first member
-      name: 'Neil Sims',
+      name: 'Grant Birkinbine',
       // Clickable link of the first member name
-      nameLink: '#',
+      nameLink: 'https://github.com/grantbirki',
       // The job title of the first member
-      title: 'Vue.js Developer',
+      title: 'Event Organizer',
       // The avatar of the first member
-      avatar: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/neil-sims.png',
+      avatar: 'https://avatars.githubusercontent.com/u/23362539?v=4',
       // Social links of the first member
       social: {
-        website: '#',
+        website: 'https://birki.io',
         // twitter: '#',
-        instagram: '#',
+        instagram: 'https://www.instagram.com/grantbirki',
         // facebook: '#',
-        linkedin: '#',
-        // github: '#',
+        // linkedin: '#',
+        github: 'https://github.com/grantbirki',
       },
     },
     {
-      name: 'Bonnie Green',
+      name: 'Ian Caragol',
       nameLink: null,
-      title: 'CEO',
-      avatar: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png',
+      title: 'Assistant Organizer',
+      avatar: 'https://avatars.githubusercontent.com/u/31246255?v=4',
       social: {
         // website: '#',
-        twitter: '#',
+        // twitter: '#',
         // instagram: '#',
         // facebook: '#',
-        linkedin: '#',
-        github: '#',
-      },
-    },
-    {
-      name: 'Jese Leos',
-      nameLink: null,
-      title: 'UI/UX Designer',
-      // avatar: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png',
-      social: {
-        // website: '#',
-        // twitter: '#',
-        instagram: '#',
-        facebook: '#',
         // linkedin: '#',
-        github: '#',
+        github: 'https://github.com/iancaragol',
       },
     },
     {
-      name: 'Michael Gough',
+      name: 'Ian Weibel',
       nameLink: null,
-      title: 'Frontend Developer',
-      avatar: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gough.png',
+      title: 'Event Host and Co-Organizer',
+      avatar: 'https://avatars.githubusercontent.com/u/42787108?v=4',
       social: {
         // website: '#',
         // twitter: '#',
-        instagram: '#',
+        // instagram: '#',
         // facebook: '#',
-        linkedin: '#',
-        github: '#',
+        // linkedin: '#',
+        github: 'https://github.com/iybul',
       },
     },
   ],
