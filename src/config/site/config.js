@@ -25,8 +25,8 @@ const CONFIG = {
   // The default alt attribute for the preview image
   defaultImageAlt: 'Default image',
   // The default width and height of the preview image
-  defaultImageWidth: 1200,
-  defaultImageHeight: 628,
+  defaultImageWidth: 1308,
+  defaultImageHeight: 1281,
 
   // Default site theme
   // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
