@@ -10,4 +10,4 @@ The source repository for the EDF website
 
 [edf.birki.io](https://edf.birki.io)
 
-![example](docs/assets/example.png)
+![example](src/assets/images/default.png)
