@@ -17,8 +17,7 @@ const CONFIG = {
   title: 'EDF — Electronic Dairy Festival',
 
   // Website description
-  description:
-    '🎧🐄 EDF is an electronic festival for friends, by friends',
+  description: '🎧🐄 EDF is an electronic festival for friends, by friends',
 
   // The website's preview image that is displayed when sharing the website on social media
   defaultImage: defaultImage,
