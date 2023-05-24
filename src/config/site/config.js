@@ -18,7 +18,7 @@ const CONFIG = {
 
   // Website description
   description:
-    '🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.',
+    '🎧🐄 EDF is an electronic festival for friends, by friends',
 
   // The website's preview image that is displayed when sharing the website on social media
   defaultImage: defaultImage,
