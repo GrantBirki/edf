@@ -7,7 +7,7 @@ const CONFIG = {
   // The name of the website
   name: 'Electronic Dairy Festival',
   // The origin of the website (without trailing slash)
-  origin: 'https://edf.birki.io',
+  origin: 'https://edf.bean-recordings.com',
   // The base pathname of the website
   basePathname: '/',
   // If the website uses trailing slashes in the URLs
