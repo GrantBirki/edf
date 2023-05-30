@@ -16,7 +16,7 @@ const content = {
     title: 'So what all is EDF? ...',
 
     // Main description text of the primary content component (HTML supported)
-    description: `EDF is an event put on by bean-recordings. `,
+    description: `EDF is an event put on by bean-recordings.`,
 
     // The items to be displayed in the primary section
     items: [
