@@ -16,7 +16,7 @@ permissions:
 
 # set an environment variable for use in all the jobs pointing the site_url
 env:
-  site_url: https://edf.birki.io
+  site_url: https://edf.bean-recordings.com
 
 jobs:
   # branch-deploy trigger job

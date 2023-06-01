@@ -8,7 +8,7 @@ image: ~/assets/images/edf-map.png
 tags:
   - planning
   - edf
-canonical: https://edf.birki.io/planning
+canonical: https://edf.bean-recordings.com/planning
 ---
 
 ## Bean Planning 🗒️
