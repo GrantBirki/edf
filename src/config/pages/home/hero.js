@@ -14,7 +14,7 @@ const hero = {
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
     text: `
-    <span class="font-semibold">EDF</span> is the premier electronic bean event of the summer. It is a gathering for friends, by friends.`,
+    <span class="font-semibold">EDF</span> is the premier electronic bean event of the summer.`,
   },
 
   // First CTA block

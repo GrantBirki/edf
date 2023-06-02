@@ -12,7 +12,7 @@ const features = {
 
   // Subtitle for the features component
   subtitle:
-    'EDF is the premier electronic bean event of the summer. It is a gathering for friends, by friends. Here are some highlights of what you can expect at EDF',
+    'EDF is the premier electronic bean event of the summer. Here are some highlights of what you can expect at EDF...',
 
   // List of features to display with HTML support
   items: [
@@ -45,10 +45,9 @@ const features = {
         icon: 'tabler:stars',
       },
       {
-        title: 'Friends',
-        description:
-          'EDF is a gathering for friends, by friends. There will be plenty of food, drinks, alcohol, and friends.',
-        icon: 'tabler:friends',
+        title: 'Food & Drinks',
+        description: 'There will be plenty of food, drinks, and alcohol to go around.',
+        icon: 'tabler:beer',
       },
     ],
   ],
