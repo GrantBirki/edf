@@ -1,6 +1,7 @@
 ---
 import { SITE } from '~/config/site/config.js';
 import Layout from '~/layouts/PageLayout.astro';
+import { Picture } from '@astrojs/image/components';
 
 import Hero from '~/components/widgets/Hero.astro';
 import Note from '~/components/widgets/Note.astro';
@@ -248,4 +249,22 @@ const meta = {
       />
     )
   }
+
+  <!-- Image -->
+  <section class:list={`pb-20 px-5`}>
+    <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
+      <Picture
+        class="mx-auto rounded-md w-full"
+        widths={[400, 768, 1024, 2040]}
+        sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+        aspectRatio={1368 / 770}
+        loading="eager"
+        width={1368}
+        height={770}
+        src={import('~/assets/images/IMG_4386_LR.jpg')}
+        alt="the beans dancing at EDF in 2022"
+        fit={'contain'}
+      />
+    </div>
+  </section>
 </Layout>
