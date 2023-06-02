@@ -8,10 +8,6 @@ const headerData = {
   // List of links to be displayed in the header
   links: [
     {
-      text: 'EDF 2023',
-      href: '/edf-2023',
-    },
-    {
       text: 'Pages',
       links: [
         {
@@ -37,7 +33,20 @@ const headerData = {
   ],
 
   // List of buttons to be displayed in the header
-  actions: [],
+  actions: [
+    {
+      // text to display on the button
+      text: 'EDF 2023',
+      // link to go to when the button is clicked
+      href: '/edf-2023',
+      // can be 'button', 'primary', or 'ghost'
+      type: 'button',
+      // HTML rel attribute
+      rel: 'noopener',
+      // HTML target attribute
+      target: '_self',
+    },
+  ],
 };
 
 export default headerData;
