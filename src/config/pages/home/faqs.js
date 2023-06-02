@@ -36,7 +36,7 @@ const faqs = {
       {
         question: 'What type of music will be played?',
         answer:
-          'Electronic music of all kinds and flavors. A variety of DJs at varying level of intoxication will be performing.',
+          'Electronic music of all kinds and flavors. A variety of DJs with varying skill levels will perform at EDF.',
       },
       {
         question: 'Does the event cost money?',
