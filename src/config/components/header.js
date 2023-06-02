@@ -22,13 +22,12 @@ const headerData = {
           text: 'Gallery',
           href: getPermalink('/gallery'),
         },
+        {
+          // The blog link is a special case, it uses the getBlogPermalink function
+          text: 'Blog',
+          href: getBlogPermalink(),
+        },
       ],
-    },
-
-    // The blog link is a special case, it uses the getBlogPermalink function
-    {
-      text: 'Blog',
-      href: getBlogPermalink(),
     },
   ],
 
