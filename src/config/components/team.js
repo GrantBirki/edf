@@ -32,20 +32,6 @@ const team = {
       },
     },
     {
-      name: 'Ian Caragol',
-      nameLink: null,
-      title: 'Assistant Organizer',
-      avatar: 'https://avatars.githubusercontent.com/u/31246255?v=4',
-      social: {
-        // website: '#',
-        // twitter: '#',
-        // instagram: '#',
-        // facebook: '#',
-        // linkedin: '#',
-        github: 'https://github.com/iancaragol',
-      },
-    },
-    {
       name: 'Ian Weibel',
       nameLink: null,
       title: 'Event Host and Co-Organizer',

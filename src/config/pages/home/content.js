@@ -27,7 +27,7 @@ const content = {
         icon: 'tabler:headphones',
       },
       {
-        title: 'Food, Drinks, and Alcohol',
+        title: 'Food & Drinks',
         description:
           'We will have a variety of food that will be grilled up and you can take what you like. It is also BYOB so bring your favorite drinks and alcohol (and extra food too).',
         icon: 'tabler:beer',
@@ -54,7 +54,7 @@ const content = {
   // Configuration for the secondary section of the content component (the second and smaller section)
   secondary: {
     // If the secondary section should be enabled
-    enabled: true,
+    enabled: false,
 
     // Items to be displayed in the secondary section
     items: [
@@ -62,7 +62,7 @@ const content = {
         title: '100% Free',
       },
       {
-        title: 'Food, Drinks, and Alcohol',
+        title: 'Food & Drinks',
       },
       {
         title: 'Live DJs',

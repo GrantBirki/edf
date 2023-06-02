@@ -1,14 +1,6 @@
 ---
-publishDate: 2022-07-01T00:00:00Z
-title: EDF 2022 Planning
-description: Planning for the 2022 event
-excerpt: This post contains planning information used around the 2022 EDF event
-category: Planning
-image: ~/assets/images/edf-map.png
-tags:
-  - planning
-  - edf
-canonical: https://edf.bean-recordings.com/planning
+title: 'Planning'
+layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Bean Planning 🗒️
@@ -83,10 +75,6 @@ Information about standard wall outlets that we will likely be using
 #### Extension Cable Distance 📏
 
 > This section shows Google Maps measurements of extension cable distances
-
-Apartment to Stage (shortest) - **91 ft**
-
-![apartment-to-stage](/assets/planning/apartment-to-stage.png)
 
 Workshop to Stage (highest power location) - **156 ft**
 

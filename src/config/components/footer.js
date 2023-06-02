@@ -27,6 +27,7 @@ const footerData = {
       links: [
         { text: 'About', href: '/about' },
         { text: 'Team', href: getPermalink('/team') },
+        { text: 'Contact', href: '/contact' },
       ],
     },
   ],
