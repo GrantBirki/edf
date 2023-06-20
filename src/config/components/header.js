@@ -11,6 +11,10 @@ const headerData = {
       text: 'Pages',
       links: [
         {
+          text: 'EDF 2023',
+          href: getPermalink('/edf-2023'),
+        },
+        {
           text: 'About',
           href: getPermalink('/about'),
         },
