@@ -26,6 +26,7 @@ const footerData = {
       title: 'About EDF',
       links: [
         { text: 'About', href: '/about' },
+        { text: 'Disclaimer', href: '/disclaimer' },
         { text: 'Team', href: getPermalink('/team') },
         { text: 'Contact', href: '/contact' },
       ],
