@@ -19,7 +19,24 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  deployment-check:
+    runs-on: ubuntu-latest
+    outputs: # set outputs for use in downstream jobs
+      continue: ${{ steps.deployment-check.outputs.continue }}
+
+    steps:
+      # https://github.com/github/branch-deploy/blob/d3c24bd92505e623615b75ffdfac5ed5259adbdb/docs/merge-commit-strategy.md
+      - name: deployment check
+        uses: github/branch-deploy@v6.0.1
+        id: deployment-check
+        with:
+          merge_deploy_mode: "true"
+          environment: github-pages
+
+
   build:
+    needs: deployment-check
+    if: ${{ needs.deployment-check.outputs.continue == 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -36,7 +53,8 @@ jobs:
         uses: withastro/action@dc081df9eacdb11181ea51e5d05853faa5aee891 # pin@v0.2.0
 
   deploy:
-    needs: build
+    needs: [deployment-check, build]
+    if: ${{ needs.deployment-check.outputs.continue == 'true' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
