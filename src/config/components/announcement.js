@@ -5,10 +5,10 @@ const announcement = {
   enabled: true,
 
   // Announcement text with HTML support
-  text: 'This is an <b>INVITE ONLY PARTY</b>',
+  text: 'EDF 2023 HAS BEEN CANCELLED',
 
   // Warning level: "info" | "warning" | "error"
-  type: 'info',
+  type: 'error',
 };
 
 export default announcement;
