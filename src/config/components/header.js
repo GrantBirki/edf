@@ -34,8 +34,12 @@ const headerData = {
       links: [
         {
           text: 'EDF 2023',
-          href: getPermalink('/edf-2023'),
+          href: getPermalink('/edf-2023-memories'),
         },
+        {
+          text: 'EDF 2022',
+          href: getPermalink('/edf-2022-memories')
+        }
       ]
     }
   ],
