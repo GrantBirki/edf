@@ -15,6 +15,40 @@ canonical: https://edf.bean-recordings.com/edf-2023-memories
 
 Memories from the EDF 2023 event - July 3nd, 2023
 
+## Event 🥳
+
+For EDF 2023, we wanted the event to be even larger than our debut year in 2022. Last year we had five live DJs and for 2023 we brought that up to 10 (might have been a little too much). Daniel brought out about 5x the amount of lights that we had last year and an expanded light board as well. We had the usual firework setup and even some lasers this year as well.
+
+The party included plenty of the following:
+
+- Campers
+- Smoked brisket
+- Beer and drinks galore
+- Friends, friends, friends, friends
+- Cornhole
+- Volleyball
+- Music + partying
+- Cows
+
+So many people were camping all over the propery in tents, cars, RVs, and campers that it was actually difficult to get a total headcount on how many people attended. If we had to guess, it would be between 80-120 people throughout the night.
+
+### DJs 🎧
+
+| DJ            | Time          | Vibe                                |
+| ------------- | ------------- | ----------------------------------- |
+| Kuwalla       | 4:00 - 4:30   | Afrobeat                            |
+| Daniel        | 4:30 - 5:30   | D&B                                 |
+| Erik          | 5:30 - 6:00   | Debut                               |
+| Nicky Martino | 6:00 - 6:45   | Big Room & Festival EDM             |
+| Sleepless     | 6:45 - 7:30   | Dubstep                             |
+| INA           | 7:30 - 8:15   | Funky Spunky                        |
+| Puddles       | 8:15 - 9:15   | N'yesss                             |
+| Borscht       | 9:15 - 10:00  | Genre chaos                         |
+| Mac & Gs      | 10:00 - 11:00 | Peace, Love, and Wubs (+ fireworks) |
+| Silent J      | 11:00 - 12:00 | Freestyle Bass                      |
+| Special Guest | 12:00 - 2:00  | Buckle Up Buckaroo                  |
+| HRDR DDI      | 2:00 - 6:00   | "Ode to Locked Club"                |
+
 ## Photos 📸
 
 ![poster](~/assets/images/edf-2023.png)
