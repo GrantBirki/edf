@@ -53,14 +53,29 @@ So many people were camping all over the propery in tents, cars, RVs, and camper
 
 ![poster](~/assets/images/edf-2023.png)
 ![IMG_6866.jpg](/assets/gallery/IMG_6866.jpg)
+
+The original sub that we had rented was actually so powerful, we couldn't even hook it up to the test setup our provider had. It would just immediately blow either a fuse, trip a surge protector, or kick the amp off. So instead, we opted to go with another set of subs which our provider had rented to Red Rocks for a show the night before. We embarked on a journey to collect the subs from deep inside Red Rocks for our own event.
+
+Myself, Garrett, and Ian collected the mighty subs.
+
 ![IMG_6867.jpg](/assets/gallery/IMG_6867.jpg)
 ![IMG_6868.jpg](/assets/gallery/IMG_6868.jpg)
+
+*Dead Rocks* (Zeds Dead) was playing that night, but all the people there didn't realize the *real* party was at EDF.
+
 ![IMG_6891.jpg](/assets/gallery/IMG_6891.jpg)
+
 ![20230703_153452.jpg](/assets/gallery/20230703_153452.jpg)
 ![20230703_161129.jpg](/assets/gallery/20230703_161129.jpg)
+
+> Steven and Kolton hanging "No Trespassing" signs to prevent us from getting sued
+
 ![20230703_180126.jpg](/assets/gallery/20230703_180126.jpg)
 ![20230703_180259.jpg](/assets/gallery/20230703_180259.jpg)
 ![20230703_182810.jpg](/assets/gallery/20230703_182810.jpg)
+
+> People started doing juggling which later led into Fire Spinning Poi
+
 ![DSC04661.jpg](/assets/gallery/DSC04661.jpg)
 ![DSC04677.jpg](/assets/gallery/DSC04677.jpg)
 ![DSC04681.jpg](/assets/gallery/DSC04681.jpg)
@@ -95,6 +110,9 @@ So many people were camping all over the propery in tents, cars, RVs, and camper
 ![EDF-052.jpg](/assets/gallery/EDF-052.jpg)
 ![EDF-055.jpg](/assets/gallery/EDF-055.jpg)
 ![EDF-057.jpg](/assets/gallery/EDF-057.jpg)
+
+> If this isn't a PBR ad then idk what it is
+
 ![EDF-058.jpg](/assets/gallery/EDF-058.jpg)
 ![EDF-059.jpg](/assets/gallery/EDF-059.jpg)
 ![EDF-060.jpg](/assets/gallery/EDF-060.jpg)
@@ -112,7 +130,9 @@ So many people were camping all over the propery in tents, cars, RVs, and camper
 ![EDF-089.jpg](/assets/gallery/EDF-089.jpg)
 ![IMG_1663.jpg](/assets/gallery/IMG_1663.jpg)
 
-Night 🎆
+### Night 🎆
+
+When the sun started to go down, things really started to kick into gear. We had fireworks, sparklers, leds, a smoke machine, a full light board, and even lasers. During this part of the night, we started to lack camera operators and a whole lot of people started showing up.
 
 ![IMG_1688.jpg](/assets/gallery/IMG_1688.jpg)
 ![IMG_1690.jpg](/assets/gallery/IMG_1690.jpg)
