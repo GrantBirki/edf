@@ -61,7 +61,7 @@ Myself, Garrett, and Ian collected the mighty subs.
 ![IMG_6867.jpg](/assets/gallery/IMG_6867.jpg)
 ![IMG_6868.jpg](/assets/gallery/IMG_6868.jpg)
 
-*Dead Rocks* (Zeds Dead) was playing that night, but all the people there didn't realize the *real* party was at EDF.
+_Dead Rocks_ (Zeds Dead) was playing that night, but all the people there didn't realize the _real_ party was at EDF.
 
 ![IMG_6891.jpg](/assets/gallery/IMG_6891.jpg)
 

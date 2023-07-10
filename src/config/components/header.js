@@ -38,10 +38,10 @@ const headerData = {
         },
         {
           text: 'EDF 2022',
-          href: getPermalink('/edf-2022-memories')
-        }
-      ]
-    }
+          href: getPermalink('/edf-2022-memories'),
+        },
+      ],
+    },
   ],
 
   // List of buttons to be displayed in the header
