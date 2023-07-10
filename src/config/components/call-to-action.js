@@ -3,7 +3,7 @@
 
 const callToAction = {
   // If the call to action should be displayed
-  enabled: true,
+  enabled: false,
 
   // The title of the call to action component
   title: 'EDF 2023',
@@ -18,7 +18,7 @@ const callToAction = {
     // The text of the button
     text: 'Learn More',
     // The link of the button
-    href: '/edf-2023',
+    // href: '/edf-2023',
     // The icon to the left of the button text
     icon: 'tabler:confetti',
     // HTML target attribute

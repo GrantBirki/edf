@@ -5,7 +5,7 @@ const note = {
   enabled: true,
 
   // Note text with HTML support
-  text: `<span class="font-bold">Date:</span> July, 3rd 2023`,
+  text: `<span class="font-bold">Date:</span> TBA`,
 
   // Optional note icon (prefix to the text)
   icon: {

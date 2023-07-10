@@ -11,10 +11,6 @@ const headerData = {
       text: 'Pages',
       links: [
         {
-          text: 'EDF 2023',
-          href: getPermalink('/edf-2023'),
-        },
-        {
           text: 'About',
           href: getPermalink('/about'),
         },
@@ -33,22 +29,35 @@ const headerData = {
         },
       ],
     },
+    {
+      text: 'Past Events',
+      links: [
+        {
+          text: 'EDF 2023',
+          href: getPermalink('/edf-2023-memories'),
+        },
+        {
+          text: 'EDF 2022',
+          href: getPermalink('/edf-2022-memories'),
+        },
+      ],
+    },
   ],
 
   // List of buttons to be displayed in the header
   actions: [
-    {
-      // text to display on the button
-      text: 'EDF 2023',
-      // link to go to when the button is clicked
-      href: '/edf-2023',
-      // can be 'button', 'primary', or 'ghost'
-      type: 'button',
-      // HTML rel attribute
-      rel: 'noopener',
-      // HTML target attribute
-      target: '_self',
-    },
+    // {
+    //   // text to display on the button
+    //   text: 'EDF 2023',
+    //   // link to go to when the button is clicked
+    //   href: '/edf-2023',
+    //   // can be 'button', 'primary', or 'ghost'
+    //   type: 'button',
+    //   // HTML rel attribute
+    //   rel: 'noopener',
+    //   // HTML target attribute
+    //   target: '_self',
+    // },
   ],
 };
 
