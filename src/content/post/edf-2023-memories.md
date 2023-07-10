@@ -78,9 +78,7 @@ Memories from the EDF 2023 event - July 3nd, 2023
 ![EDF-089.jpg](/assets/gallery/EDF-089.jpg)
 ![IMG_1663.jpg](/assets/gallery/IMG_1663.jpg)
 
----
-
-Night
+Night 🎆
 
 ![IMG_1688.jpg](/assets/gallery/IMG_1688.jpg)
 ![IMG_1690.jpg](/assets/gallery/IMG_1690.jpg)
