@@ -21,3 +21,4 @@ Memories from the EDF 2023 event - July 3nd, 2023
 ![IMG_6866.jpg](/assets/gallery/IMG_6866.jpg)
 ![IMG_6867.jpg](/assets/gallery/IMG_6867.jpg)
 ![IMG_6868.jpg](/assets/gallery/IMG_6868.jpg)
+![IMG_6891.jpg](/assets/gallery/IMG_6891.jpg)
