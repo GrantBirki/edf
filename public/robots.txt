@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edf.bean-recordings.com/sitemap-index.xml
+Sitemap: https://edf.birki.io/sitemap-index.xml

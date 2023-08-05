@@ -8,7 +8,7 @@ image: ~/assets/images/edf-2023.png
 tags:
   - '2023'
   - edf
-canonical: https://edf.bean-recordings.com/edf-2023-memories
+canonical: https://edf.birki.io/edf-2023-memories
 ---
 
 ## EDF 2023 🎧

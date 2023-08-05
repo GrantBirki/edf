@@ -8,6 +8,6 @@ The source repository for the EDF website
 
 ## Check it Out 🔗
 
-[edf.bean-recordings.com](https://edf.bean-recordings.com)
+[edf.birki.io](https://edf.birki.io)
 
 ![example](src/assets/images/default.png)
