@@ -34,20 +34,26 @@ So many people were camping all over the propery in tents, cars, RVs, and camper
 
 ### DJs 🎧
 
-| DJ            | Time          | Vibe                                |
-| ------------- | ------------- | ----------------------------------- |
-| Kuwalla       | 4:00 - 4:30   | Afrobeat                            |
-| Daniel        | 4:30 - 5:30   | D&B                                 |
-| Erik          | 5:30 - 6:00   | Debut                               |
-| Nicky Martino | 6:00 - 6:45   | Big Room & Festival EDM             |
-| Sleepless     | 6:45 - 7:30   | Dubstep                             |
-| INA           | 7:30 - 8:15   | Funky Spunky                        |
-| Puddles       | 8:15 - 9:15   | N'yesss                             |
-| Borscht       | 9:15 - 10:00  | Genre chaos                         |
-| Mac & Gs      | 10:00 - 11:00 | Peace, Love, and Wubs (+ fireworks) |
-| Silent J      | 11:00 - 12:00 | Freestyle Bass                      |
-| Special Guest | 12:00 - 2:00  | Buckle Up Buckaroo                  |
-| HRDR DDI      | 2:00 - 6:00   | "Ode to Locked Club"                |
+| DJ                                                                            | Time          | Vibe                                |
+| ----------------------------------------------------------------------------- | ------------- | ----------------------------------- |
+| Kuwalla                                                                       | 4:00 - 4:30   | Afrobeat                            |
+| Daniel                                                                        | 4:30 - 5:30   | D&B                                 |
+| Erik                                                                          | 5:30 - 6:00   | Debut                               |
+| Nicky Martino                                                                 | 6:00 - 6:45   | Big Room & Festival EDM             |
+| Sleepless                                                                     | 6:45 - 7:30   | Dubstep                             |
+| INA                                                                           | 7:30 - 8:15   | Funky Spunky                        |
+| [Puddles](https://soundcloud.com/dj-puddles-778829236/dairy-fest-2023-dj-set) | 8:15 - 9:15   | N'yesss                             |
+| Borscht                                                                       | 9:15 - 10:00  | Genre chaos                         |
+| Mac & Gs                                                                      | 10:00 - 11:00 | Peace, Love, and Wubs (+ fireworks) |
+| Silent J                                                                      | 11:00 - 12:00 | Freestyle Bass                      |
+| Special Guest                                                                 | 12:00 - 2:00  | Buckle Up Buckaroo                  |
+| HRDR DDI                                                                      | 2:00 - 6:00   | "Ode to Locked Club"                |
+
+### Sets 🎵
+
+A few DJs published their sets from the event:
+
+- [Puddles](https://soundcloud.com/dj-puddles-778829236/dairy-fest-2023-dj-set)
 
 ## Photos 📸
 
